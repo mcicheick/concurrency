@@ -1,4 +1,6 @@
-package com.cheickode;
+package com.cheickode.store.impl;
+
+import com.cheickode.store.Store;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

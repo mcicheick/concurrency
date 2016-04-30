@@ -1,4 +1,4 @@
-package com.cheickode;
+package com.cheickode.store;
 
 /**
  * Created by sissoko on 30/04/2016.

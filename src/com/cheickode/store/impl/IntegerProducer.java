@@ -1,4 +1,7 @@
-package com.cheickode;
+package com.cheickode.store.impl;
+
+import com.cheickode.store.Producer;
+import com.cheickode.store.Store;
 
 import java.util.Random;
 

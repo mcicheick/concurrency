@@ -1,8 +1,4 @@
-package com.cheickode;
-
-import java.util.concurrent.TimeUnit;
-import java.util.concurrent.locks.Condition;
-import java.util.concurrent.locks.Lock;
+package com.cheickode.store;
 
 /**
  * Created by sissoko on 30/04/2016.

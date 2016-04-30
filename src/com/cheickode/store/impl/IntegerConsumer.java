@@ -1,4 +1,7 @@
-package com.cheickode;
+package com.cheickode.store.impl;
+
+import com.cheickode.store.Consumer;
+import com.cheickode.store.Store;
 
 /**
  * Created by sissoko on 30/04/2016.
